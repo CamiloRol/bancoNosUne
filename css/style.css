@@ -1,0 +1,16 @@
+#carouselExampleInterval {
+    margin: 4% auto;
+    width: 80vw;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+}
+
+#carouselExampleInterval img {
+    height: 75%;
+}
+
+footer {
+    height: 30vh;
+    background-color: #575555;
+}
